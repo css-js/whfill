@@ -374,7 +374,7 @@ box-shadow: 0px 0px 12px -2px #000;
 width: 234px;
 float: left;
 text-transform: uppercase;;
-margin-top: -9px;
+margin-top: -5px;
 height: 73px;
 
 }
@@ -1251,7 +1251,88 @@ background:#cb2027 url(http://3.bp.blogspot.com/-qWs9EAhiU7I/UZPw5EBv4XI/AAAAAAA
 .supheader_wrap .header_socials.cart-style span {background:#ffffff;position:absolute;width:15px;height:15px;top:2px;left:19px;border-radius:7.5px;color:#ffffff;text-align:center;font-weight:bold;font-size:12px;line-height:16px;opacity:1; filter:alpha(opacity == 100);}
 .supheader_wrap .header_socials.login-style {display:inline-block;color:#ffffff;width:auto;line-height:28px;margin-bottom:0px !important;}
 
+.st_facebook_custom{
+	background: url("http://googledrive.com/host/0B21SHbplE4xUZUNzQXpBV21JUms/icons/fb2.png") no-repeat scroll left top transparent;
+	padding:44px 64px 20px 0;
+    margin:0 5px 0 5px; }
 
+  .st_facebook_custom:hover{
+	background: url("http://googledrive.com/host/0B21SHbplE4xUZUNzQXpBV21JUms/icons/fb2.png") no-repeat scroll left top transparent;
+	padding:44px 64px 20px 0;
+	opacity: 0.7;
+}
+
+.st_googleplus_custom{
+	background: url("http://googledrive.com/host/0B21SHbplE4xUZUNzQXpBV21JUms/icons/gplus2.png") no-repeat scroll left top transparent;
+	padding:44px 64px 20px 0;
+margin:0 5px 0 5px; 
+}
+  .st_googleplus_custom:hover{
+	background: url("http://googledrive.com/host/0B21SHbplE4xUZUNzQXpBV21JUms/icons/gplus2.png") no-repeat scroll left top transparent;
+	padding:44px 64px 20px 0;
+	opacity: 0.7;
+}
+
+.st_twitter_custom{
+	background: url("http://googledrive.com/host/0B21SHbplE4xUZUNzQXpBV21JUms/icons/tw2.png") no-repeat scroll left top transparent;
+	padding:44px 64px 20px 0;
+margin:0 5px 0 5px; 
+}
+
+  .st_twitter_custom:hover{
+	background: url("http://googledrive.com/host/0B21SHbplE4xUZUNzQXpBV21JUms/icons/tw2.png") no-repeat scroll left top transparent;
+	padding:44px 64px 20px 0;
+	opacity: 0.7;
+}
+
+.st_tumblr_custom{
+	background: url("http://googledrive.com/host/0B21SHbplE4xUZUNzQXpBV21JUms/icons/tumb2.png") no-repeat scroll left top transparent;
+	padding:44px 64px 20px 0;
+    margin:0 5px 0 5px; }
+
+    .st_tumblr_custom:hover{
+	background: url("http://googledrive.com/host/0B21SHbplE4xUZUNzQXpBV21JUms/icons/tumb2.png") no-repeat scroll left top transparent;
+	padding:44px 64px 20px 0;
+	opacity: 0.7;
+}
+
+.st_pinterest_custom{
+	background: url("http://googledrive.com/host/0B21SHbplE4xUZUNzQXpBV21JUms/icons/pin2.png") no-repeat scroll left top transparent;
+	padding:44px 64px 20px 0;
+    margin:0 5px 0 5px; }
+
+    .st_pinterest_custom:hover{
+	background: url("http://googledrive.com/host/0B21SHbplE4xUZUNzQXpBV21JUms/icons/pin2.png") no-repeat scroll left top transparent;
+	padding:44px 64px 20px 0;
+	opacity: 0.7;
+}
+
+.st_email_custom{
+	background: url("http://googledrive.com/host/0B21SHbplE4xUZUNzQXpBV21JUms/icons/mail2.png") no-repeat scroll left top transparent;
+	padding:44px 64px 20px 0;
+    margin:0 5px 0 5px; }
+
+    .st_email_custom:hover{
+	background: url("http://googledrive.com/host/0B21SHbplE4xUZUNzQXpBV21JUms/icons/mail2.png") no-repeat scroll left top transparent;
+	padding:44px 64px 20px 0;
+	opacity: 0.7;
+}
+
+.st_sharethis_custom{
+	background: url("http://googledrive.com/host/0B21SHbplE4xUZUNzQXpBV21JUms/icons/sharethis2.png") no-repeat scroll left top transparent;
+	padding:44px 64px 20px 0;
+    margin:0 5px 0 5px; }
+
+    .st_sharethis_custom:hover{
+	background: url("http://googledrive.com/host/0B21SHbplE4xUZUNzQXpBV21JUms/icons/sharethis2.png") no-repeat scroll left top transparent;
+	padding:44px 64px 20px 0;
+	opacity: 0.7;
+}
+
+ .st_share{
+	height:50px;
+	margin:50px 0px 10px 0;
+}
 
 /*-----------------------------------*/
 /* Header */
